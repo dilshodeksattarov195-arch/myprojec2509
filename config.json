@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricscender",
+        "uuid": 6249919,
+        "checksum": "q1w3xf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
